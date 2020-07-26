@@ -1,0 +1,1 @@
+let myObject = {name: 'Test', role:'Test Role'}
